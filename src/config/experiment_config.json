@@ -1,0 +1,8 @@
+{
+  "models": {
+    "roberta": "FacebookAI/roberta-large",
+    "bert-large": "bert-large-uncased",
+    "electra-large": "google/electra-large-discriminator",
+    "xlm-roberta-large": "FacebookAI/xlm-roberta-large"
+  }
+}
